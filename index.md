@@ -166,6 +166,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+<p id="signup">
+  <strong>Sign-up</strong>: Please send an e-mail to <a href='mailto:lovschal@cas.au.dk'>Mette Løvschal</a> to sign up.
+</p>
+
 <hr/>
 
 {% comment %}
